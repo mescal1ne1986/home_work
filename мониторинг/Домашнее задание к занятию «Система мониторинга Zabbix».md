@@ -9,7 +9,7 @@
 4. Выполните все необходимые команды для установки Zabbix Server и Zabbix Web Server.
 
 ---
-![image](https://github.com/Dk054/studies/assets/139000762/93d8c1fc-bbcd-427c-9efd-513c4d701501)
+![image](https://github.com/mescal1ne1986/home_work/blob/main/мониторинг/Снимок%20экрана%202023-09-27%20112040.png)
 
 
 ---
