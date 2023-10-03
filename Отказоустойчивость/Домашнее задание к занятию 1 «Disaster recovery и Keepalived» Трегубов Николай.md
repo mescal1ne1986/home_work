@@ -1,3 +1,5 @@
+# Домашнее задание к занятию 1 «Disaster recovery и Keepalived»
+
 ### Задание 1
 - Дана [схема](1/hsrp_advanced.pkt) для Cisco Packet Tracer, рассматриваемая в лекции.
 - На данной схеме уже настроено отслеживание интерфейсов маршрутизаторов Gi0/1 (для нулевой группы)
@@ -5,4 +7,14 @@
 - Для проверки корректности настройки, разорвите один из кабелей между одним из маршрутизаторов и Switch0 и запустите ping между PC0 и Server0.
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
+------
+
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Отказоустойчивость/1.png)
+
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Отказоустойчивость/2.png)
+
+
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Отказоустойчивость/3.png)
+
+[cхема тут](https://github.com/mescal1ne1986/home_work/blob/main/Отказоустойчивость/123.pkt)
 ------
