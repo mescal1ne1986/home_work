@@ -65,10 +65,10 @@ vrrp_instance VI_1 {
 }
 ```
 - На проверку отправьте получившейся bash-скрипт и конфигурационный файл keepalived, а также скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Отказоустойчивость/Снимок%20экрана%202023-10-04%20202728.png)
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Отказоустойчивость/Снимок%20экрана%202023-10-04%20203555.png)
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Отказоустойчивость/Снимок%20экрана%202023-10-04%20203941.png)
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Отказоустойчивость/Снимок%20экрана%202023-10-04%20204424.png)
 
 
 ------
