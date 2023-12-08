@@ -37,7 +37,7 @@ ALTER USER 'sys_temp'@'localhost' IDENTIFIED WITH mysql_native_password BY 'secr
 ![image](https://github.com/mescal1ne1986/home_work/blob/main/Реляционные%20базы%20данных%20и%20администрирование%20баз%20данных/5.png)
 ![image](https://github.com/mescal1ne1986/home_work/blob/main/Реляционные%20базы%20данных%20и%20администрирование%20баз%20данных/6.png)
 ### 1.9 При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)
-![image](https://github.com/mescal1ne1986/home_work/tree/main/Реляционные%20базы%20данных%20и%20администрирование%20баз%20данных)
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Реляционные%20базы%20данных%20и%20администрирование%20баз%20данных/8.png)
 
 
 
