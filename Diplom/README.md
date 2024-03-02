@@ -104,7 +104,7 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 ![image](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/terraform%20init.png)
 </details>
      
-2. Написал конфиг для инфраструктуры с помощью [terraform](https://github.com/Dk054/sys-diplom/tree/diplom-zabbix/Terraform) запустил его
+2. Написал конфиг для инфраструктуры с помощью [terraform](https://github.com/mescal1ne1986/home_work/tree/main/Diplom/terraform) запустил его
 <details>
    
 ![image](image/terraform_apply.png)
