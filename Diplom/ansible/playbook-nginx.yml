@@ -1,1 +1,23 @@
+---
+
+- name: Test connection
+  hosts: web_servers
+  become: yes
+
+  tasks:
+
+  - name: Update apt
+    apt:
+      update_cache: yes
+
+  - name: Install nginx
+    apt: name=nginx state=latest
+
+  - name: Change main page
+    ansible.builtin.copy:
+      src: ./site/index.nginx-debian.html
+      dest: /var/www/html/index.nginx-debian.html
+      owner: admin
+      group: sudo
+      mode: '0644'
 
