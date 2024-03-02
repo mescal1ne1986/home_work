@@ -113,7 +113,7 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 4. Ставлю Ansible на bastionhost и проверяю:
 <details>
    
-[![Проверка](https://github.com/Dk054/sys-diplom/blob/38c73d0e665d476e4d08b32332a80bd164626910/image/ansible%20-i%20hosts%20all%20-m%20ping.png)
+[![Проверка](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/ansible.png)
 </details>
 
 ### Сайт
