@@ -107,7 +107,7 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 2. Написал конфиг для инфраструктуры с помощью [terraform](https://github.com/mescal1ne1986/home_work/tree/main/Diplom/terraform) запустил его
 <details>
    
-![image](image/terraform_apply.png)
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/изображение_2024-03-02_144046303.png)
 </details>
 3. После развертывания инфраструктуры создаю вручную bastionhost и добавляю его в security groups, для установки  приложений с помощью Ansible 
 4. Ставлю Ansible на bastionhost и проверяю:
