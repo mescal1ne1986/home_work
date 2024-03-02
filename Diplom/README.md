@@ -110,6 +110,7 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 ![image](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/изображение_2024-03-02_144046303.png)
 </details>
 3. После развертывания инфраструктуры создаю вручную bastionhost и добавляю его в security groups, для установки  приложений с помощью Ansible 
+
 4. Ставлю Ansible на bastionhost и проверяю:
 <details>
    
