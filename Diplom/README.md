@@ -137,9 +137,11 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 
 Установка:
 <details>
-
+   
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/zabbix.png)
 ![image](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/zabbix2.png)
 </details>
+
 Дашборд:
 <details>
    
