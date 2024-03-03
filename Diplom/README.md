@@ -182,14 +182,14 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 Создайте snapshot дисков всех ВМ. Ограничьте время жизни snaphot в неделю. Сами snaphot настройте на ежедневное копирование.
 <details>
 
-Резервное копирование было настроено с помощью terraform, [main.tf](https://github.com/Dk054/sys-diplom/blob/355cbd3a034e27a39538f8196173fea60751a720/Terraform/main.tf#L502)
+Резервное копирование было настроено с помощью terraform, [main.tf](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/terraform/main.tf#L485)
 
-![image](https://github.com/Dk054/sys-diplom/assets/139000762/a4ec32c9-a1cb-493c-911a-cc4b911cdcd4)
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/снимки.png)
 
 </details> 
 
 
-## На этом всё, спасибо за просмотр :D
+## Спасибо за курс! Было интересно.
 </details> 
 
 <!-- 
