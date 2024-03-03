@@ -170,13 +170,11 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 <details>
    
 Группы безопасности: 
-![image](https://github.com/Dk054/sys-diplom/assets/139000762/3bb178bd-00c7-42fe-9752-0f3d95e77d35)
-Шлюз:
-![image](https://github.com/Dk054/sys-diplom/assets/139000762/b3a8a6df-75d7-4315-bc04-41ec6dd889f9)
+![image](https://github.com/mescal1ne1986/home_work/commit/9ffde824d8e13fe73e2d5ea3d65620e542939664)
 Балансировщик
-![image](https://github.com/Dk054/sys-diplom/assets/139000762/2912ddae-76b8-4f4c-8d96-a1fdbcbf00a7)
-![image](https://github.com/Dk054/sys-diplom/assets/139000762/e00f31f3-d4a2-494a-8599-b4408528221e)
-![image](https://github.com/Dk054/sys-diplom/assets/139000762/627c9005-48f2-43c6-ae97-f250cc6f4d30)
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/балансер.png)
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/карта%20балансировки.png)
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/группы%20бэк.png)
 
 </details> 
 
