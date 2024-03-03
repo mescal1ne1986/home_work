@@ -124,7 +124,7 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 <details>
    
 ![установка](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/ansible%20nginx.png)
-![Сайт](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/сайт%20nginx.png)
+![Сайт](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/изображение_2024-03-03_135655285.png)
 ![Баланировщик](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/balance1.png)
 ![Логи_балансировщика](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/balancer.png)
 
