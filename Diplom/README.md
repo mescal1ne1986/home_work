@@ -119,7 +119,7 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 
 ### Сайт
 
-Создал две ВМ в разных зонах, ставлю на них сервера nginx [nginx.yml](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/ansible/playbook-nginx.yml), в плейбуке описаны все действия.
+Создал две ВМ в разных зонах, ставлю на них сервера nginx [playbook-nginx.yml](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/ansible/playbook-nginx.yml), в плейбуке описаны все действия.
 Запускаю плейбук, проверяю что сайт доступен, заодно проверяю работу балансировщика
 <details>
    
