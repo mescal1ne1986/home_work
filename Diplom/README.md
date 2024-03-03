@@ -147,7 +147,6 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 ![image](https://github.com/Dk054/sys-diplom/assets/139000762/b372c5b3-32b0-4628-97ed-47d7ddb0cc63)
 ![image](https://github.com/Dk054/sys-diplom/assets/139000762/74aef37d-79f8-4a45-950e-7232fe0e142c)
 
-
 </details> 
 
 ### Логи
@@ -157,14 +156,12 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 <details>
 
 Установка:
-![image](https://github.com/Dk054/sys-diplom/assets/139000762/9257ea21-7e78-4446-8e05-d301476c8d57)
-![image](https://github.com/Dk054/sys-diplom/assets/139000762/c6b15aa6-ec2f-495d-992e-e7cfd9cd380a)
-![image](https://github.com/Dk054/sys-diplom/assets/139000762/b4a5b9c0-7082-4729-a1a3-811415091f40)
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/filebeat.png)
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/elastic.png)
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/kibana.png)
 Проверки:
-![image](https://github.com/Dk054/sys-diplom/assets/139000762/9596e6f8-0389-468f-928c-c0ac93129260)
-![image](https://github.com/Dk054/sys-diplom/assets/139000762/5863c95a-15e1-4111-a9a7-a5f05e4c354d)
-![image](https://github.com/Dk054/sys-diplom/assets/139000762/fa0e6a59-ca48-49b6-9a5f-5a521d574aec)
-
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/kibana%20сайт1.png)
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/kibana%20сайт2.png)
 
 </details> 
 
