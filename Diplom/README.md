@@ -145,7 +145,7 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 <details>
    
 ![image](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/zabbix%20сайт1.png)
-![image](https://github.com/Dk054/sys-diplom/assets/139000762/74aef37d-79f8-4a45-950e-7232fe0e142c)
+![image](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/zabbix%20сайт2.png)
 
 </details> 
 
