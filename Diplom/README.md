@@ -119,14 +119,14 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 
 ### Сайт
 
-Создал две ВМ в разных зонах, ставлю на них сервера nginx [nginx.yml](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/ansible/playbook-nginx.yml), так же немного изменил конфиг html, в плейбуке описаны все действия, а именно установка, * установка начальной страницы сайта по шаблону html. 
+Создал две ВМ в разных зонах, ставлю на них сервера nginx [nginx.yml](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/ansible/playbook-nginx.yml), в плейбуке описаны все действия.
 Запускаю плейбук, проверяю что сайт доступен, заодно проверяю работу балансировщика
 <details>
    
 ![установка](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/ansible%20nginx.png)
-![Сайт](https://github.com/Dk054/sys-diplom/blob/diplom-zabbix/image/сайт.png)
-![Баланировщик](https://github.com/Dk054/sys-diplom/blob/diplom-zabbix/image/адрес%20балансировщика.png)
-![Логи_балансировщика](https://github.com/Dk054/sys-diplom/blob/diplom-zabbix/image/логи%20балансировщика.png)
+![Сайт](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/сайт%20nginx.png)
+![Баланировщик](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/balance1.png)
+![Логи_балансировщика](https://github.com/mescal1ne1986/home_work/blob/main/Diplom/image/balancer.png)
 
 </details>
 
